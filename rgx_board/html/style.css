@@ -1,0 +1,344 @@
+#container{
+
+    position: absolute;
+    padding: 25px;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 550px;
+    height: 219px;
+    background:rgb(19,19,19);
+    border-radius: 25px;
+    border-left: 7px solid #8c00ff;
+    box-shadow: 10px 10px 63px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 63px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 63px 0px rgba(0,0,0,0.75);
+    animation: slideIn 1s;
+    display: none;
+
+    
+}
+
+.placeholder{
+
+
+    position: absolute;
+    top: 12%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 29px;
+    background: rgb(33, 33, 33);
+    border-radius: 7px;
+
+
+
+}
+
+.placeholder2{
+
+
+    position: absolute;
+    top: 12%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 29px;
+    background: rgb(33, 33, 33);
+    border-radius: 7px;
+
+
+
+}
+
+.placeholder3{
+
+
+    position: absolute;
+    top: 52%;
+    left: 87%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 29px;
+    background: rgb(33, 33, 33);
+    border-radius: 7px;
+
+
+
+}
+
+.placeholder4{
+
+
+    position: absolute;
+    top: 52%;
+    left: 63%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 29px;
+    background: rgb(33, 33, 33);
+    border-radius: 7px;
+
+
+
+}
+
+.placeholder5{
+
+
+    position: absolute;
+    top: 52%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 29px;
+    background: rgb(33, 33, 33);
+    border-radius: 7px;
+
+
+
+}
+
+.placeholder6{
+
+
+    position: absolute;
+    top: 52%;
+    left: 13%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 29px;
+    background: rgb(33, 33, 33);
+    border-radius: 7px;
+
+
+
+}
+
+
+p.spieler{
+
+    position: absolute;
+    width: 266px;
+    height: 26px;
+    left: -80px;
+    top: -12px;
+    
+    text-align: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 27px;
+    
+    
+    color: #FFFFFF;
+
+}
+
+
+p.police{
+
+    position: absolute;
+    width: 266px;
+    height: 26px;
+    left: -80px;
+    top: -12px;
+    
+    text-align: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 27px;
+    
+    
+    color: #FFFFFF;
+
+}
+
+p.taxi{
+
+    position: absolute;
+    width: 266px;
+    height: 26px;
+    left: -80px;
+    top: -12px;
+    
+    text-align: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 27px;
+    
+    
+    color: #FFFFFF;
+
+}
+
+p.medic{
+
+    position: absolute;
+    width: 266px;
+    height: 26px;
+    left: -80px;
+    top: -12px;
+    
+    text-align: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 27px;
+    
+    
+    color: #FFFFFF;
+
+}
+
+p.army{
+
+    position: absolute;
+    width: 266px;
+    height: 26px;
+    left: -80px;
+    top: -12px;
+    
+    text-align: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 27px;
+    
+    
+    color: #FFFFFF;
+
+}
+
+
+p.discord{
+
+    position: absolute;
+    width: 266px;
+    height: 26px;
+    left: 170px;
+    top: 192px;
+    
+    text-align: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 27px;
+    
+    
+    color: #FFFFFF;
+
+}
+
+p.id{
+
+    position: absolute;
+    width: 266px;
+    height: 26px;
+    left: -80px;
+    top: -12px;
+    
+    text-align: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 27px;
+    
+    
+    color: #FFFFFF;
+
+}
+
+p.dienst{
+
+    position: absolute;
+    width: 266px;
+    height: 26px;
+    left: 170px;
+    top: 55px;
+    
+    text-align: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 27px;
+    
+    
+    color: #FFFFFF;
+
+}
+
+p.schrift{
+
+
+    position: absolute;
+    width: 266px;
+    height: 26px;
+    left: 175px;
+    top: -10px;
+    
+    text-align: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 27px;
+    
+    
+    color: #FFFFFF;
+    
+    
+}
+
+
+.linie{
+
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 2px;
+    background: rgb(53, 53, 53);
+    border-radius: 7px;
+    animation: slideIn 1s;
+
+}
+
+img.logo{
+
+    position: absolute;
+    width: 105px;
+    left: 85%;
+    top: 69%;
+    animation: slideIn 0s;
+    
+
+}
+
+@keyframes slideIn {
+    100% {
+        width: 550px;
+    }
+    50%{
+
+       
+
+    }
+    0% {
+
+        width: 0px;
+        
+
+    }
+}
